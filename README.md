@@ -6,11 +6,6 @@
     <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong><br/>
     Em busca da minha <strong>primeira oportunidade como Desenvolvedor</strong>
   </p>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=AndreMch2001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </p>
-
 </div>
 
 ---
@@ -58,3 +53,11 @@ Meu objetivo é **conquistar minha primeira oportunidade como Desenvolvedor**, a
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<br/>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreMch2001/AndreMch2001/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreMch2001/AndreMch2001/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AndreMch2001/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
