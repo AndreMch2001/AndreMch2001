@@ -2,7 +2,7 @@ name: Generate Car Animation
 
 on:
   push:
-    branches: [main]
+    branches: [master]
   schedule:
     - cron: "0 0 * * 0"   # toda semana (opcional)
   workflow_dispatch:       # botão "Run workflow" manual
