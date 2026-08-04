@@ -40,12 +40,6 @@ Meu objetivo é **conquistar minha primeira oportunidade como Desenvolvedor**, a
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AndreMch2001/AndreMch2001/master/car.gif" alt="carrinho animado" />
-</div>
-
----
-
 ## 🔗 Contato
 
 - **LinkedIn:** [André Machado](https://www.linkedin.com/in/andr%C3%A9-machado-4abba4195/)
