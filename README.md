@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Olá! Sou André Machado 👋</h1>
+  <h1>Olá! Bem Vindo! 👋</h1>
 
   <p>
     <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong><br/>
@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mim
 
-Olá! Sou **André Machado**, estudante de **Análise e Desenvolvimento de Sistemas**.
+Olá! Sou **André Machado**, tenho 24 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**.
 
 Meu objetivo é **conquistar minha primeira oportunidade como Desenvolvedor**, aplicando o que estudo no dia a dia em projetos reais e evoluindo continuamente.
 
@@ -41,16 +41,12 @@ Meu objetivo é **conquistar minha primeira oportunidade como Desenvolvedor**, a
 ---
 
 ## 🔗 Contato
-
-- **LinkedIn:** [André Machado](https://www.linkedin.com/in/andr%C3%A9-machado-4abba4195/)
-- **Email:** [0808andremachado@gmail.com](mailto:0808andremachado@gmail.com)
-
 <p align="center">
   <a href="https://www.linkedin.com/in/andr%C3%A9-machado-4abba4195/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img height= "50rem" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:0808andremachado@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img height= "50rem" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
