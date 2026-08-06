@@ -45,7 +45,7 @@ Meu objetivo é **conquistar minha primeira oportunidade como Desenvolvedor**, a
   <a href="https://www.linkedin.com/in/andr%C3%A9-machado-4abba4195/">
     <img height= "50rem" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:0808andremachado@gmail.com">
+  <a href="mailto:https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNvvRNnHlmHScrMdxqFSfhkDZhXFwHJXFcZNwnFkVjQgppgVxlVXrNjSrHzsnksNlqtzNB">
     <img height= "50rem" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
